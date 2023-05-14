@@ -1,5 +1,5 @@
-Algo Visualizer
-Project 3
+# Algo Visualizer
+# Project 3
 
 # URL TBD
 
