@@ -12,7 +12,7 @@
 - As a user, I want this app to be beginner friendly.
 - As a user, I want to be able to use this app on any device.
 
-# Stretch Goals
+# Stretch 
 - As a user, I want to be able to signup/login to be able to favorite an algo.
 - As a user, I want to be able to comment or rate an algo.
 - As a user, I want to be able to change colors of the visual graph.
